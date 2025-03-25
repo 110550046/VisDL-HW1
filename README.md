@@ -24,6 +24,6 @@ Install dependencies using `pip`:
 
 ```bash
 pip install -r requirements.txt
-
+```
 ## Performance snapshot
 ![image](https://github.com/user-attachments/assets/cf2588a7-4255-4892-87ca-a260a78da767)
