@@ -18,7 +18,12 @@ The task comes with particular specifications:
 The core idea of the method is to fine-tune a pretrained ResNet152 model(~60.2M params) on the target dataset and apply targeted architectural modifications and strong regularization to adapt it to the 100-category classification task. To enhance generalization, I also include a variety of data augmentation techniques during training.
 """
 ## how to install
-To set up the environment and install all necessary dependencies, you can use pip. It's recommended to use a virtual environment (like venv or conda) before installing:
-`pip install -r requirements.txt`
+To set up the environment and install all necessary dependencies, it's recommended to use a virtual environment (such as `venv` or `conda`).
+
+Install dependencies using `pip`:
+
+```bash
+pip install -r requirements.txt
+
 ## Performance snapshot
 ![image](https://github.com/user-attachments/assets/cf2588a7-4255-4892-87ca-a260a78da767)
