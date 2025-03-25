@@ -8,7 +8,7 @@ The task comes with particular specifications:
 ●	No external datasets are allowed.  
 ●	The model must be based on a ResNet architecture  
 ●	The total number of model parameters must be less than 100M.  
-○	Use of pretrained weights is allowed, and modifying the backbone architecture is encouraged to improve performance.  
+ο	Use of pretrained weights is allowed, and modifying the backbone architecture is encouraged to improve performance.  
 ●	The code should be PEP8-formatted  
 ●	Weak baseline accuracy of ~0.8 and strong baseline accuracy of ~0.923  
   
